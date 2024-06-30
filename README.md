@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Janmey16
-- 👀 I’m interested in Data Science with python
-- 🌱 I’m currently learning python development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:- janmeypatel.16@gmail.com
 
 <!---
